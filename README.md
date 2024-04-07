@@ -4,13 +4,13 @@ This project implements a Tic Tac Toe game with an AI opponent using the Minimax
 
 ## Features
 
-- Play against another human or against the AI.
+- Play against another human or against AI.
 - Choose between different AI difficulty levels (random moves or Minimax algorithm).
 - Interactive graphical user interface using Pygame.
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Pygame library
 
 ## How to Run
@@ -30,9 +30,9 @@ This project implements a Tic Tac Toe game with an AI opponent using the Minimax
     python tic_tac_toe.py
     ```
 
-6. Follow the on-screen instructions to play the game.
+6. Follow instructions to play the game.
 
-## Controls
+## Game Controls
 
 - Use the mouse to click on the square where you want to place your mark.
 - Press 'g' to switch between player vs. player and player vs. AI modes.
