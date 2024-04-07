@@ -42,5 +42,5 @@ This project implements a Tic Tac Toe game with an AI opponent using the Minimax
 
 ## Credits
 
-This project was created by Merna Ahmed. Feel free to contribute and improve it!
+This project was created by Merna Ahmed. Feel free to use the code and improve it!
 
